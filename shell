@@ -1,0 +1,2 @@
+parsing :
+echo $e | sed 's/input/output/g'
